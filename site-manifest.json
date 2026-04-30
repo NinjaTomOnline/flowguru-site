@@ -1,0 +1,16 @@
+{
+  "name": "FlowGuru",
+  "tagline": "Creative flow tools and focus systems for getting unstuck.",
+  "category": "Tool",
+  "status": "Live",
+  "website": "https://ninjatomonline.github.io/flowguru-site/",
+  "supportUrl": "",
+  "privacyUrl": "",
+  "appStoreUrl": "",
+  "icon": "https://raw.githubusercontent.com/NinjaTomOnline/flowguru-site/main/assets/flowguru-icon.svg",
+  "previewImage": "https://raw.githubusercontent.com/NinjaTomOnline/flowguru-site/main/assets/flowguru-preview.svg",
+  "previewImageAlt": "FlowGuru project preview",
+  "accent": "#FFCF70",
+  "featured": false,
+  "sortOrder": 50
+}
