@@ -1,0 +1,25 @@
+FlowGuru Press Notes
+====================
+
+One-line pitch:
+FlowGuru gives flow artists a polished home base for profiles and practice before the larger community features arrive.
+
+Short description:
+FlowGuru is a premium community platform foundation for flow artists. The current early-access build focuses on accounts, profile setup, discipline selection, practice prompts, tester feedback, and privacy-conscious launch operations.
+
+Current status:
+Private staging and release preparation.
+
+Current product scope:
+- Account verification and password recovery
+- Profile fields for display name, bio, location, disciplines, skill level, goals, and profile photo setup when media storage is configured
+- Profile-based practice prompts
+- Tester feedback intake
+- Account activity and deletion-request handling
+- First-party onboarding analytics with no third-party tracking scripts
+
+Not active yet:
+Public social feed, event system, marketplace, payments, broad uploads, badges, reputation, and moderation workflows.
+
+Support:
+support@flowguru.app

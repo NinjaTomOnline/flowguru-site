@@ -1,0 +1,16 @@
+{
+  "name": "FlowGuru",
+  "short_name": "FlowGuru",
+  "description": "Flow arts profile and practice foundation.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070907",
+  "theme_color": "#54f2d0",
+  "icons": [
+    {
+      "src": "assets/flowguru-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
